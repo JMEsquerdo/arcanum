@@ -2,11 +2,11 @@
 // Get root
 
 // Vars
-let homeUrl = "https://jmesquerdo.github.io/arcanum.github.io/";
+let homeUrl = "https://jmesquerdo.github.io/arcanum/";
 // with no trailing '/'
 homeUrl = homeUrl.replace(/\/+$/, "");
 let currentUrl = window.location.href;
-let sitemap = "https://jmesquerdo.github.io/arcanum.github.io/sitemap.xml"
+let sitemap = "https://jmesquerdo.github.io/arcanum/sitemap.xml"
 // Based in https://ben.balter.com/2022/06/30/helpful-404s-for-jekyll-and-github-pages/
 // A: Function definition...
 // Own version of closest from 'fastest-levenshtein')

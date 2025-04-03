@@ -1,1 +1,1 @@
-Sitemap: https://jmesquerdo.github.io/arcanum.github.io/sitemap.xml
+Sitemap: https://jmesquerdo.github.io/arcanum/sitemap.xml

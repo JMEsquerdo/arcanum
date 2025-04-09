@@ -18,3 +18,6 @@ gem 'ostruct'
 gem 'fiddle'
 gem 'faraday-retry'
 gem 'tzinfo'
+
+# Añadir esta gema para soporte de zonas horarias en Windows
+gem 'tzinfo-data'

@@ -9,24 +9,24 @@ remote_theme: dieghernan/chulapa
 # A. Site Settings /SEO options
 # Overall options for your site, would affect your site SEO
 # Default values are explained
-locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
+locale                  : es-ES    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   : Arcanum Caelum    #default["repository_name"]
-title_separator         :     #default [" | "]
+title_separator         : " | "    #default [" | "]
 subtitle                : Mago 20 Aniversario    #default [your-repository-tagline]  
 description             : Mago 20 Aniversario #default [your-repository-tagline]
-url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
-baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
-repository              :     JMEsquerdo/arcanum.github.io # Needs to be set (e.g. dieghernan/chulapa)
+url                     : "https://jmesquerdo.github.io"    #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
+baseurl                 : "/arcanum"    #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+repository              : JMEsquerdo/arcanum.github.io # Needs to be set (e.g. dieghernan/chulapa)
 words_per_minute        :     #default[200]
-timezone                :     # Europe/Madrid  ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone                : Europe/Madrid #  ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # SEO
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Jessica Esquerdo   # Name Surname Company
+  name                  :  J. Esquerdo | Arcanum Caelum  # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
-  location              :  "Madrid, Spain"   # New York, USA 
+  location              :  "Alicante, Spain"   # New York, USA 
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
 #      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
@@ -148,18 +148,18 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  # Optional predefined skins
+  skin         :  LUX # Optional predefined skins https://dieghernan.github.io/chulapa/skins
   autothemer    :  true # Bool: Use autotheming.
   vars          :    
-        primary: "#2F414A"
-        secondary: "#F47B53"
-        success: "#420084"
-        danger: "#f2460d"
-        info: "#7ebcfa"
-        warning: "#ff9933"
-        light: "#eef0f2"
-        dark: "#000633"
-        headings-font-family: Voltaire
+        primary: # "#2F414A"
+        secondary: # "#F47B53"
+        success: # "#420084"
+        danger: # "#f2460d"
+        info: # "#7ebcfa"
+        warning: # "#ff9933"
+        light: # "#eef0f2"
+        dark: # "#000633"
+        headings-font-family: # Voltaire
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 

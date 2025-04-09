@@ -5,10 +5,10 @@
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
 		<link>https://jmesquerdo.github.io/arcanum</link>
 		<description>Mago 20 Aniversario</description>
-		<language>en-US</language>
-		<copyright>(c) 2025, Jessica Esquerdo</copyright>	
-		<pubDate>Thu, 03 Apr 2025 16:24:10 +0000</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 16:24:10 +0000</lastBuildDate>
+		<language>es-ES</language>
+		<copyright>(c) 2025, J. Esquerdo | Arcanum Caelum</copyright>	
+		<pubDate>Wed, 09 Apr 2025 17:13:53 +0200</pubDate>
+		<lastBuildDate>Wed, 09 Apr 2025 17:13:53 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://jmesquerdo.github.io/arcanum/rss.xml" rel="self" type="application/rss+xml" />
@@ -1636,7 +1636,7 @@
 		    <category>bootstrap</category><category>current-theme</category><category>demo</category><category>header-hero</category><category>image</category><category>skin</category><media:title type="html"><![CDATA[Current skin ]]></media:title>
       <media:content url="https://picsum.photos/id/1018/2000/2000" medium="image"/>
       <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20201231_current-skin/</guid>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>The Acueduct of Segovia</title>
 			<description>
@@ -1652,7 +1652,7 @@
 		    <category>downtown</category><category>image</category><category>landscape</category><category>project-links</category><category>trips</category><category>wikipedia</category><media:title type="html"><![CDATA[The Acueduct of Segovia ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" medium="image"/>
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" /><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20191127_acueduct-of-segovia/</guid>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>A landing page</title>
 			<description>
@@ -1668,7 +1668,7 @@
 		    <category>demo</category><category>example</category><category>guest-author</category><category>image</category><category>layout</category><media:title type="html"><![CDATA[A landing page ]]></media:title>
       <media:content url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" medium="image"/>
       <media:thumbnail url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" /><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20190803_landing-page/</guid>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0200</pubDate>
 		</item><item>
 			<title>Dean Village</title>
 			<description>
@@ -1692,7 +1692,7 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 		    <category>bootstrap</category><category>demo</category><category>downtown</category><category>edinburgh</category><category>image</category><category>kramdown</category><category>landscape</category><category>trips</category><category>wikipedia</category><media:title type="html"><![CDATA[Dean Village ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" medium="image"/>
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" /><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20190502_dean-village/</guid>
-      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
 		</item><item>
 			<title>Urban art</title>
 			<description>
@@ -1712,7 +1712,7 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 		    <category>downtown</category><category>image</category><category>street</category><category>urban art</category><media:title type="html"><![CDATA[Urban art ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" medium="image"/>
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" /><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20181109_urban_art/</guid>
-      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Flake it till you make it</title>
 			<description>
@@ -1732,7 +1732,7 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 			<link>https://jmesquerdo.github.io/arcanum/20150226_flake-it-till-you-make-it/</link>
 			<category>posts</category>
 		    <category>manuscript</category><category>random</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150226_flake-it-till-you-make-it/</guid>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Test markdown</title>
 			<description>
@@ -1804,7 +1804,7 @@ foo(3)
 			<link>https://jmesquerdo.github.io/arcanum/20150220_test-markdown/</link>
 			<category>posts</category>
 		    <category>exciting-stuff</category><category>markdown</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150220_test-markdown/</guid>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>To be</title>
 			<description>
@@ -1852,7 +1852,7 @@ Be all my sins remembered.</p>
 			<link>https://jmesquerdo.github.io/arcanum/20150213_hamlet-monologue/</link>
 			<category>posts</category>
 		    <category>manuscript</category><category>wikipedia</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150213_hamlet-monologue/</guid>
-      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Dear diary</title>
 			<description>
@@ -1866,7 +1866,7 @@ Be all my sins remembered.</p>
 			<link>https://jmesquerdo.github.io/arcanum/20150127_dear-diary/</link>
 			<category>posts</category>
 		    <category>diary</category><category>manuscript</category><category>random</category><category>school</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150127_dear-diary/</guid>
-      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Soccer</title>
 			<description>
@@ -1884,7 +1884,7 @@ Be all my sins remembered.</p>
 			<link>https://jmesquerdo.github.io/arcanum/20150119_soccer/</link>
 			<category>posts</category>
 		    <category>exciting-stuff</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150119_soccer/</guid>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Pirates arrrr</title>
 			<description>
@@ -1898,7 +1898,7 @@ Be all my sins remembered.</p>
 			<link>https://jmesquerdo.github.io/arcanum/20150115_pirates/</link>
 			<category>posts</category>
 		    <category>pirates</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150115_pirates/</guid>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>First post!</title>
 			<description>
@@ -1912,6 +1912,6 @@ Be all my sins remembered.</p>
 			<link>https://jmesquerdo.github.io/arcanum/20150104_first-post/</link>
 			<category>posts</category>
 		    <category>exciting-stuff</category><category>random</category><guid isPermaLink="true">https://jmesquerdo.github.io/arcanum/20150104_first-post/</guid>
-      <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2015 00:00:00 +0100</pubDate>
 		</item></channel>
 </rss>

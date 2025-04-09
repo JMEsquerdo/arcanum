@@ -15,7 +15,7 @@ title_separator         : " | "    #default [" | "]
 subtitle                : Mago 20 Aniversario    #default [your-repository-tagline]  
 description             : Mago 20 Aniversario #default [your-repository-tagline]
 url                     : "https://jmesquerdo.github.io"    #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
-baseurl                 : "/arcanum"    #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+baseurl                 : #"/arcanum" On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 repository              : JMEsquerdo/arcanum.github.io # Needs to be set (e.g. dieghernan/chulapa)
 words_per_minute        :     #default[200]
 timezone                : Europe/Madrid #  ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
